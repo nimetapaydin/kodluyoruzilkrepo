@@ -27,7 +27,10 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+# Proje içi Patika linki
+
+[Patika](www.patika.dev)
+
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-[Patika](www.patika.dev)

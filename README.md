@@ -29,7 +29,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Proje içi Patika linki
 
-[Patika](www.patika.dev)
+[Patika](https://www.patika.dev/tr)
 
 # License
 
